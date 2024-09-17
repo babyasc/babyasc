@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @babyasc
-- 👀 I’m interested in quitting finance and becoming a cracked engineer. 
-- 🌱 I’m currently learning everything from scratch
-- 💞️ I’m looking to collaborate on discussing how I can be a cracked engineer.
+- 👀 ex - investment banker; cracked builder
+- 🌱 gaining perspective and creating consumer tools for India
+- 💞️ talk to me about next 10 years in india
 - 📫 How to reach me - asc.earth
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 babyasc/babyasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
